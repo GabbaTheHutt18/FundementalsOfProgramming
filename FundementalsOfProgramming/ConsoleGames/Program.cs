@@ -13,18 +13,38 @@ namespace ConsoleGames
                     {"-", "-", "-"},
                     {"-", "-", "-"}
                 };
-
+            string[] playerSymbols = new string[] { "O", "X" };
+            Console.WriteLine("Player 1 is O and Player 2 is X");
+            bool win = false;
             OutputGrid(grid);
+            int playerTurn = 0;
             do
             {
-
-                grid = PlayerChoice(grid);
+                
+                grid = PlayerChoice(grid, playerSymbols[playerTurn]);
+                win = CheckWin(grid, playerSymbols[playerTurn]);
                 OutputGrid(grid);
+                if (win == true)
+                {
+                    Console.WriteLine($"Player {playerTurn} wins");
+                }
+
                 CheckGridSpace(grid);
-            } while (CheckGridSpace(grid) == true);
+                playerTurn = ChangeTurn(playerTurn);
+
+            } while (CheckGridSpace(grid) == true && win == false);
+            Console.WriteLine("Draw?");
 
 
+        }
 
+        private static int ChangeTurn(int playerTurn)
+        {
+            if (playerTurn == 0)
+            {
+                return 1;
+            }
+            return 0;
         }
 
         static bool CheckGridSpace(string[,] grid)
@@ -36,7 +56,7 @@ namespace ConsoleGames
                 {
                     if (grid[i, j] == "-") //Check to see if the grid has space
                     {
-                        space = true;
+                        return true;
 
                     }
                 }
@@ -45,26 +65,21 @@ namespace ConsoleGames
             return space;
         }
 
-        static string[,] PlayerChoice(string[,] grid)
+        static string[,] PlayerChoice(string[,] grid, string playerSymbols)
         {
-            string[] playerSymbols = new string[] { "X", "O" };
-            Console.WriteLine("Player 1 is O and Player 2 is X");
-            for (int i = 0; i <= 1; i++)
-            {
-                Console.WriteLine($"Player {i + 1}'s Turn");
-                int row = GetRow();
-                int column = GetColumn();
-                bool validChoice = TurnCheck(grid, row, column);
-                while (validChoice == true)
+            Console.WriteLine($"Player {playerSymbols}'s Turn");
+            int row = GetRow();
+            int column = GetColumn();
+            bool validChoice = TurnCheck(grid, row, column);
+            while (validChoice == true)
                 {
-                    row = GetRow();
-                    column = GetColumn();
-                    validChoice = TurnCheck(grid, row, column);
+                row = GetRow();
+                column = GetColumn();
+                validChoice = TurnCheck(grid, row, column);
 
                 }
-                grid[row, column] = playerSymbols[i];
+            grid[row, column] = playerSymbols;
 
-            }
             return grid;
 
         }
@@ -106,11 +121,12 @@ namespace ConsoleGames
             }
         }
 
-        static void CheckWin(string [,] grid, string playerSymbol)
+        static bool CheckWin(string [,] grid, string playerSymbol)
         {
-            CheckRows(grid, playerSymbol);
-            CheckColumn(grid, playerSymbol);
-
+            bool rowWin = CheckRows(grid, playerSymbol);
+            bool columnWin = CheckColumn(grid, playerSymbol);
+            bool diagonalWin = CheckDiagonal(grid, playerSymbol);
+            return rowWin || columnWin || diagonalWin;
         }
         
         static bool CheckRows(string[,] grid, string playerSymbol)
@@ -128,12 +144,13 @@ namespace ConsoleGames
                         counter += 1;
                     }
                 }
+                if (counter == 3)
+                {
+                    win = true;
+                }
 
             }
-            if (counter == 3)
-            {
-                win = true;
-            }
+            
             return win;
         }
 
@@ -152,26 +169,43 @@ namespace ConsoleGames
                         counter += 1;
                     }
                 }
+                if (counter == 3)
+                {
+                    win = true;
+                }
+            }
+            return win;
+        }
+
+        static bool CheckDiagonal (string[,] grid, string playerSymbol)
+        {
+            bool win = false;
+            int column = 0;
+            int counter = 0;
+            for (int row = 0; row < 3; row++)
+            {
+                if (grid[row, column] == playerSymbol)
+                {
+                    counter += 1;
+                }
+                column += 1;
+            }
+            column = 2;
+            counter = 0;
+            for (int row = 0; row < 3; row++)
+            {
+                
+                if (grid[row, column] == playerSymbol)
+                {
+                    counter += 1;
+                }
+                column -= 1;
             }
             if (counter == 3)
             {
                 win = true;
             }
             return win;
-        }
-
-        static void CheckDiagonal (string[,] grid, string playerSymbol)
-        {
-            int column = 0;
-            for (int row = 0; row < 2; row++)
-            {
-                if (grid[row, column] == playerSymbol)
-                {
-                    
-                }
-                column += 1;
-            }
-
         }
     }
 }
