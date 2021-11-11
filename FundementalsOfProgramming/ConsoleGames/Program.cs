@@ -83,7 +83,6 @@ namespace ConsoleGames
             return column;
         }
 
-
         static bool TurnCheck(string[,] grid, int row, int column)
         {
 
@@ -107,18 +106,72 @@ namespace ConsoleGames
             }
         }
 
-        static bool CheckWin(string [,] grid)
+        static void CheckWin(string [,] grid, string playerSymbol)
         {
-            bool win = false;
-            for (int i = 0; i < 3; i++)
-            {
-                for (int j = 0; j < 3; j++)
-                {
-                
-                }
+            CheckRows(grid, playerSymbol);
+            CheckColumn(grid, playerSymbol);
 
-                return win;
         }
         
+        static bool CheckRows(string[,] grid, string playerSymbol)
+        {
+            bool win = false;
+            int counter = 0;
+            for (int i = 0; i < 3; i++)
+            {
+                counter = 0;
+                for (int j = 0; j < 3; j++)
+                {
+
+                    if (grid[i, j] == playerSymbol)
+                    {
+                        counter += 1;
+                    }
+                }
+
+            }
+            if (counter == 3)
+            {
+                win = true;
+            }
+            return win;
+        }
+
+        static bool CheckColumn(string[,] grid, string playerSymbol)
+        {
+            bool win = false;
+            int counter = 0;
+            for (int i = 0; i < 3; i++)
+            {
+                counter = 0;
+                for (int j = 0; j < 3; j++)
+                {
+
+                    if (grid[j,i] == playerSymbol) 
+                    {
+                        counter += 1;
+                    }
+                }
+            }
+            if (counter == 3)
+            {
+                win = true;
+            }
+            return win;
+        }
+
+        static void CheckDiagonal (string[,] grid, string playerSymbol)
+        {
+            int column = 0;
+            for (int row = 0; row < 2; row++)
+            {
+                if (grid[row, column] == playerSymbol)
+                {
+                    
+                }
+                column += 1;
+            }
+
+        }
     }
 }
