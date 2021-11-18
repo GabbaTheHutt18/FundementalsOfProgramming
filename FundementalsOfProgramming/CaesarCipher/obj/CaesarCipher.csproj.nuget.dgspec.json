@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\ConsoleGames\\ConsoleGames.csproj": {}
+    "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\CaesarCipher\\CaesarCipher.csproj": {}
   },
   "projects": {
-    "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\ConsoleGames\\ConsoleGames.csproj": {
+    "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\CaesarCipher\\CaesarCipher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\ConsoleGames\\ConsoleGames.csproj",
-        "projectName": "ConsoleGames",
-        "projectPath": "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\ConsoleGames\\ConsoleGames.csproj",
+        "projectUniqueName": "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\CaesarCipher\\CaesarCipher.csproj",
+        "projectName": "CaesarCipher",
+        "projectPath": "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\CaesarCipher\\CaesarCipher.csproj",
         "packagesPath": "C:\\Users\\2016045\\.nuget\\packages\\",
-        "outputPath": "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\ConsoleGames\\obj\\",
+        "outputPath": "M:\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\CaesarCipher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2016045\\AppData\\Roaming\\NuGet\\NuGet.Config",
