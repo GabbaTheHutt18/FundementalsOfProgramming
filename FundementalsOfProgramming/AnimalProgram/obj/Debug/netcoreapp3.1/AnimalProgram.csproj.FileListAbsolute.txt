@@ -1,0 +1,4 @@
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.csprojAssemblyReference.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.csproj.CoreCompileInputs.cache

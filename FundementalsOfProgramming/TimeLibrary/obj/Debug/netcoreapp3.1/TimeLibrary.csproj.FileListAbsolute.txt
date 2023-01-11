@@ -1,0 +1,12 @@
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\obj\Debug\netcoreapp3.1\TimeLibrary.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\obj\Debug\netcoreapp3.1\TimeLibrary.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\obj\Debug\netcoreapp3.1\TimeLibrary.csproj.CoreCompileInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\bin\Debug\netcoreapp3.1\TimeLibrary.exe
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\bin\Debug\netcoreapp3.1\TimeLibrary.deps.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\bin\Debug\netcoreapp3.1\TimeLibrary.runtimeconfig.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\bin\Debug\netcoreapp3.1\TimeLibrary.runtimeconfig.dev.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\bin\Debug\netcoreapp3.1\TimeLibrary.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\bin\Debug\netcoreapp3.1\TimeLibrary.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\obj\Debug\netcoreapp3.1\TimeLibrary.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\obj\Debug\netcoreapp3.1\TimeLibrary.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\TimeLibrary\obj\Debug\netcoreapp3.1\TimeLibrary.genruntimeconfig.cache

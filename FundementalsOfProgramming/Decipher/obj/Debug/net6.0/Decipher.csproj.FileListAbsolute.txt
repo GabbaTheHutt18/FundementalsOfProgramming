@@ -1,0 +1,15 @@
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\bin\Debug\net6.0\Decipher.exe
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\bin\Debug\net6.0\Decipher.deps.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\bin\Debug\net6.0\Decipher.runtimeconfig.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\bin\Debug\net6.0\Decipher.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\bin\Debug\net6.0\Decipher.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\Decipher.csproj.AssemblyReference.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\Decipher.GeneratedMSBuildEditorConfig.editorconfig
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\Decipher.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\Decipher.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\Decipher.csproj.CoreCompileInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\Decipher.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\refint\Decipher.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\Decipher.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\Decipher.genruntimeconfig.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Decipher\obj\Debug\net6.0\ref\Decipher.dll

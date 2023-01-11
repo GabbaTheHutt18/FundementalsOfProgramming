@@ -1,13 +1,13 @@
-M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.csprojAssemblyReference.cache
-M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.AssemblyInfoInputs.cache
-M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.AssemblyInfo.cs
-M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.csproj.CoreCompileInputs.cache
 M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.exe
 M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.deps.json
 M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.runtimeconfig.json
 M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.runtimeconfig.dev.json
 M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.dll
 M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.csprojAssemblyReference.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.csproj.CoreCompileInputs.cache
 M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.dll
 M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.pdb
 M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.genruntimeconfig.cache

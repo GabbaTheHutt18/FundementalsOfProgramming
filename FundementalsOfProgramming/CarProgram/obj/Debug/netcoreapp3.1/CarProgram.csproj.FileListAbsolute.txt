@@ -1,0 +1,12 @@
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\bin\Debug\netcoreapp3.1\CarProgram.exe
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\bin\Debug\netcoreapp3.1\CarProgram.deps.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\bin\Debug\netcoreapp3.1\CarProgram.runtimeconfig.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\bin\Debug\netcoreapp3.1\CarProgram.runtimeconfig.dev.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\bin\Debug\netcoreapp3.1\CarProgram.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\bin\Debug\netcoreapp3.1\CarProgram.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\obj\Debug\netcoreapp3.1\CarProgram.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\obj\Debug\netcoreapp3.1\CarProgram.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\obj\Debug\netcoreapp3.1\CarProgram.csproj.CoreCompileInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\obj\Debug\netcoreapp3.1\CarProgram.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\obj\Debug\netcoreapp3.1\CarProgram.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\CarProgram\obj\Debug\netcoreapp3.1\CarProgram.genruntimeconfig.cache

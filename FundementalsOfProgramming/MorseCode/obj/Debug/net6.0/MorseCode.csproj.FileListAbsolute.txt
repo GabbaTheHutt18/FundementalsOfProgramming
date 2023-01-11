@@ -1,0 +1,15 @@
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\MorseCode.csproj.AssemblyReference.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\MorseCode.GeneratedMSBuildEditorConfig.editorconfig
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\MorseCode.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\MorseCode.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\MorseCode.csproj.CoreCompileInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\bin\Debug\net6.0\MorseCode.exe
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\bin\Debug\net6.0\MorseCode.deps.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\bin\Debug\net6.0\MorseCode.runtimeconfig.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\bin\Debug\net6.0\MorseCode.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\bin\Debug\net6.0\MorseCode.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\MorseCode.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\refint\MorseCode.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\MorseCode.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\MorseCode.genruntimeconfig.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\MorseCode\obj\Debug\net6.0\ref\MorseCode.dll

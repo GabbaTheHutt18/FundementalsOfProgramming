@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tI26RTJZznGC23wJ1AQH7wi/mNlegeDdJha8SmenCRFeBWtj0TGVp1GgewXyfG96mL8kABPt9/jhkHBARSEk8A==",
+  "success": true,
+  "projectFilePath": "\\\\Student16\\Areas$\\2016045\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\PolitenessOfANumber\\PolitenessOfANumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2016045\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\2016045\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\2016045\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\2016045\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

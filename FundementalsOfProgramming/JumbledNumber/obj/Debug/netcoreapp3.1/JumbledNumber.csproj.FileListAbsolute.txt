@@ -1,0 +1,12 @@
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\bin\Debug\netcoreapp3.1\JumbledNumber.exe
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\bin\Debug\netcoreapp3.1\JumbledNumber.deps.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\bin\Debug\netcoreapp3.1\JumbledNumber.runtimeconfig.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\bin\Debug\netcoreapp3.1\JumbledNumber.runtimeconfig.dev.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\bin\Debug\netcoreapp3.1\JumbledNumber.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\bin\Debug\netcoreapp3.1\JumbledNumber.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\obj\Debug\netcoreapp3.1\JumbledNumber.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\obj\Debug\netcoreapp3.1\JumbledNumber.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\obj\Debug\netcoreapp3.1\JumbledNumber.csproj.CoreCompileInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\obj\Debug\netcoreapp3.1\JumbledNumber.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\obj\Debug\netcoreapp3.1\JumbledNumber.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\JumbledNumber\obj\Debug\netcoreapp3.1\JumbledNumber.genruntimeconfig.cache

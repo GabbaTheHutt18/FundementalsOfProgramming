@@ -1,0 +1,15 @@
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\bin\Debug\net6.0\SentenceWorth.exe
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\bin\Debug\net6.0\SentenceWorth.deps.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\bin\Debug\net6.0\SentenceWorth.runtimeconfig.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\bin\Debug\net6.0\SentenceWorth.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\bin\Debug\net6.0\SentenceWorth.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\SentenceWorth.csproj.AssemblyReference.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\SentenceWorth.GeneratedMSBuildEditorConfig.editorconfig
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\SentenceWorth.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\SentenceWorth.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\SentenceWorth.csproj.CoreCompileInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\SentenceWorth.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\refint\SentenceWorth.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\SentenceWorth.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\SentenceWorth.genruntimeconfig.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\SentenceWorth\obj\Debug\net6.0\ref\SentenceWorth.dll

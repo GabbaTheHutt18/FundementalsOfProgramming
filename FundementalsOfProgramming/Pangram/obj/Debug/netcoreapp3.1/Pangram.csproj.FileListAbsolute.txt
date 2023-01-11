@@ -1,0 +1,12 @@
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\bin\Debug\netcoreapp3.1\Pangram.exe
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\bin\Debug\netcoreapp3.1\Pangram.deps.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.dev.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\bin\Debug\netcoreapp3.1\Pangram.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\bin\Debug\netcoreapp3.1\Pangram.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\obj\Debug\netcoreapp3.1\Pangram.csproj.CoreCompileInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\obj\Debug\netcoreapp3.1\Pangram.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\obj\Debug\netcoreapp3.1\Pangram.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Pangram\obj\Debug\netcoreapp3.1\Pangram.genruntimeconfig.cache

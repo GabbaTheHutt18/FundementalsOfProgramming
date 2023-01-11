@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ao4K9aHjhYccGqokVVa5NTIOvGV0+wS3KTLJpN2os9vxgGC3sAVGmQcm3vyd32pclR/nKJLycGBZ5XQhueDJ3A==",
+  "success": true,
+  "projectFilePath": "\\\\Student16\\Areas$\\2016045\\Computing\\ALevel\\ProgrammingProjects\\FundementalsOfProgramming\\FundementalsOfProgramming\\DoubleBasePalindrome\\DoubleBasePalindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2016045\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\2016045\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\2016045\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\2016045\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

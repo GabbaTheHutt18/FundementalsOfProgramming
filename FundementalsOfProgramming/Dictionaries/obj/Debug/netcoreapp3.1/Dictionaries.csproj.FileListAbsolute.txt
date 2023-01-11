@@ -1,0 +1,12 @@
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.exe
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.deps.json
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.json
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.dev.json
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.dll
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.pdb
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfoInputs.cache
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfo.cs
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csproj.CoreCompileInputs.cache
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.dll
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.pdb
+\\Student16\Areas$\2016045\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.genruntimeconfig.cache

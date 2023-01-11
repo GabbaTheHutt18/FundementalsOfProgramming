@@ -1,0 +1,12 @@
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.exe
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.deps.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.runtimeconfig.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.runtimeconfig.dev.json
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.AssemblyInfoInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.AssemblyInfo.cs
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.csproj.CoreCompileInputs.cache
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.dll
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.pdb
+M:\Computing\ALevel\ProgrammingProjects\FundementalsOfProgramming\FundementalsOfProgramming\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.genruntimeconfig.cache
